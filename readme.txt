@@ -1,7 +1,7 @@
 Para cargarlo:
 Prelude>:set -package containers -- (A veces) 
 Prelude>:set -package process -- (A veces) 
-Prelude>:l Main.hs
+Prelude>:l src/Main.hs
 
 Para ejecutar los ejemplos:
 Prelude>main -- Para jugar una partida normal
